@@ -9,8 +9,14 @@ If you have some of your own great finds, submit a PR!
 * [Base.cs](https://www.codenewbie.org/basecs) 
 
 ## Websites
+* [Open Logic Project](http://openlogicproject.org) 
+* [GDB Tutorial](http://www.dirac.org/linux/gdb/)
+* [Unix/Linux Command Reference](https://files.fosswire.com/2007/08/fwunixref.pdf)
+* [Getting to Grips with LaTeX](http://www.andy-roberts.net/writing/latex/absolute_beginners)
+* [Vim Adventures](https://vim-adventures.com)
 
 ## Books
+* [C++ Primer Plus by Stephen Prata](http://faculty.euc.ac.cy/scharalambous/csc132/books/c%2B%2B_book%201.pdf)
 
-## Articles
-
+## Blog
+* [basecs](https://medium.com/@vaidehijoshi)
