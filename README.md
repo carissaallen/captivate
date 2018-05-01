@@ -1,4 +1,4 @@
-# Learn
+# Learn (by medium)
 
 This is a curated list of my favorite resources to get inspired, to program better, and to learn abstract computer science topics. These include books, articles, websites, podcasts, etc. that I've come across throughout my coding journey. Though I'm visually bookmarking some of my favorites here, by no means is this list intended to be comprehensive.
 
@@ -20,3 +20,14 @@ If you have some of your own great finds, submit a PR!
 
 ## Blog
 * [basecs](https://medium.com/@vaidehijoshi)
+
+# Learn (by topic) 
+## Discrete Structures 
+* [Open Logic Project](http://openlogicproject.org) 
+
+## Principles of Programming Languages
+* [Types and Programming Languages by Benjamin Pierce](https://www.asc.ohio-state.edu/pollard.4/type/books/pierce-tpl.pdf)
+* [Stanford Encyclopedia of Philosophy: The Lambda Calculus](https://plato.stanford.edu/entries/lambda-calculus/)
+* [Alligator Eggs (simple pictorial representation)](http://worrydream.com/AlligatorEggs/) 
+
+## Software Engineering
