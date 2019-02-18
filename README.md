@@ -4,6 +4,13 @@ This is a curated list of my favorite resources to get inspired, to program bett
 
 If you have some of your own great finds, submit a PR!
 
+## Algorithms & Complexity
+* [Introduction to the Design and Analysis of Algorithms by Anany Levitin](http://www.vgloop.com/_files/1394454921-126688.pdf)
+* [Sorting Algorithms](https://www.toptal.com/developers/sorting-algorithms)
+* [Big-O Cheat Sheet](http://bigocheatsheet.com)
+* [Data Structures & Algorithms Overview](http://www.dsalgo.com/2013/02/index.php.html?m=1)
+* [Visualize Data Structures & Algorithms](https://visualgo.net/en) 
+
 ## Discrete Structures 
 * [Open Logic Project](http://openlogicproject.org) 
 * [forallx](http://people.ds.cam.ac.uk/tecb2/forallxcam.pdf)
@@ -13,19 +20,15 @@ If you have some of your own great finds, submit a PR!
 * [Stanford Encyclopedia of Philosophy: The Lambda Calculus](https://plato.stanford.edu/entries/lambda-calculus/)
 * [Alligator Eggs (simple pictorial representation)](http://worrydream.com/AlligatorEggs/) 
 
-## Algorithms & Complexity
-* [Introduction to the Design and Analysis of Algorithms by Anany Levitin](http://www.vgloop.com/_files/1394454921-126688.pdf)
-* [Sorting Algorithms](https://www.toptal.com/developers/sorting-algorithms)
-* [Big-O Cheat Sheet](http://bigocheatsheet.com)
-* [Data Structures & Algorithms Overview](http://www.dsalgo.com/2013/02/index.php.html?m=1)
-* [Visualize Data Structures & Algorithms](https://visualgo.net/en) 
+## Programming Languages
+* [Code Practice & Mentorship](https://exercism.io/)
 
-## C#
+### C#
 * [Get Started with C# and Visual Studio Code](https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code) 
 * [Unit testing C# in .NET Core](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test)
 * [REST client](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/console-webapiclient)
 
-## F# 
+### F# 
 * [Get Started with F# in Visual Studio Code](https://docs.microsoft.com/en-us/dotnet/fsharp/get-started/get-started-vscode?tabs=windows)
 * [The "Why use F#?" series](https://fsharpforfunandprofit.com/posts/why-use-fsharp-intro/)
 
