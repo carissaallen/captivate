@@ -26,6 +26,7 @@ If you have some of your own great finds, submit a PR!
 # Learn (by topic) 
 ## Discrete Structures 
 * [Open Logic Project](http://openlogicproject.org) 
+* [forallx](http://people.ds.cam.ac.uk/tecb2/forallxcam.pdf)
 
 ## Principles of Programming Languages
 * [Types and Programming Languages by Benjamin Pierce](https://www.asc.ohio-state.edu/pollard.4/type/books/pierce-tpl.pdf)
@@ -37,6 +38,7 @@ If you have some of your own great finds, submit a PR!
 * [Sorting Algorithms](https://www.toptal.com/developers/sorting-algorithms)
 * [Big-O Cheat Sheet](http://bigocheatsheet.com)
 * [Data Structures & Algorithms Overview](http://www.dsalgo.com/2013/02/index.php.html?m=1)
+* [Visualize Data Structures & Algorithms](https://visualgo.net/en) 
 
 ## C#
 * [Get Started with C# and Visual Studio Code](https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code) 
