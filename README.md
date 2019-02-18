@@ -1,29 +1,9 @@
-# Learn (by medium)
+# Learn (by topic) 
 
 This is a curated list of my favorite resources to get inspired, to program better, and to learn abstract computer science topics. These include books, articles, websites, podcasts, etc. that I've come across throughout my coding journey. Though I'm visually bookmarking some of my favorites here, by no means is this list intended to be comprehensive.
 
 If you have some of your own great finds, submit a PR!
 
-## Podcasts
-* [CodeNewbie](https://www.codenewbie.org/) 
-* [Base.cs](https://www.codenewbie.org/basecs) 
-
-## Websites
-* [Open Logic Project](http://openlogicproject.org) 
-* [GDB Tutorial](http://www.dirac.org/linux/gdb/)
-* [Unix/Linux Command Reference](https://files.fosswire.com/2007/08/fwunixref.pdf)
-* [Getting to Grips with LaTeX](http://www.andy-roberts.net/writing/latex/absolute_beginners)
-* [Vim Adventures](https://vim-adventures.com)
-
-## Books
-* [C++ Primer Plus by Stephen Prata](http://faculty.euc.ac.cy/scharalambous/csc132/books/c%2B%2B_book%201.pdf)
-* [Introduction to the Design and Analysis of Algorithms by Anany Levitin](http://www.vgloop.com/_files/1394454921-126688.pdf)
-* [Introduction to the Theory of Computation by Michael Sipser](https://www.pdfdrive.net/introduction-to-the-theory-of-computation-3rd-edition-e30937898.html)
-
-## Blog
-* [basecs](https://medium.com/@vaidehijoshi)
-
-# Learn (by topic) 
 ## Discrete Structures 
 * [Open Logic Project](http://openlogicproject.org) 
 * [forallx](http://people.ds.cam.ac.uk/tecb2/forallxcam.pdf)
@@ -48,3 +28,24 @@ If you have some of your own great finds, submit a PR!
 ## F# 
 * [Get Started with F# in Visual Studio Code](https://docs.microsoft.com/en-us/dotnet/fsharp/get-started/get-started-vscode?tabs=windows)
 * [The "Why use F#?" series](https://fsharpforfunandprofit.com/posts/why-use-fsharp-intro/)
+
+# Learn (by medium) 
+
+## Podcasts
+* [CodeNewbie](https://www.codenewbie.org/) 
+* [Base.cs](https://www.codenewbie.org/basecs) 
+
+## Websites
+* [Open Logic Project](http://openlogicproject.org) 
+* [GDB Tutorial](http://www.dirac.org/linux/gdb/)
+* [Unix/Linux Command Reference](https://files.fosswire.com/2007/08/fwunixref.pdf)
+* [Getting to Grips with LaTeX](http://www.andy-roberts.net/writing/latex/absolute_beginners)
+* [Vim Adventures](https://vim-adventures.com)
+
+## Books
+* [C++ Primer Plus by Stephen Prata](http://faculty.euc.ac.cy/scharalambous/csc132/books/c%2B%2B_book%201.pdf)
+* [Introduction to the Design and Analysis of Algorithms by Anany Levitin](http://www.vgloop.com/_files/1394454921-126688.pdf)
+* [Introduction to the Theory of Computation by Michael Sipser](https://www.pdfdrive.net/introduction-to-the-theory-of-computation-3rd-edition-e30937898.html)
+
+## Blog
+* [basecs](https://medium.com/@vaidehijoshi)
