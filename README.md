@@ -24,7 +24,7 @@ If you have some of your own great finds, submit a PR!
 * [Code Practice & Mentorship](https://exercism.io/)
 
 ## Python
-* [Learn Python in Y Minutes](https://www.overleaf.com/6157951658tnbwspdkrsst)
+* [Learn Python3 in Y Minutes](https://learnxinyminutes.com/docs/python3/)
 
 ### C++
 * [C++ Primer Plus by Stephen Prata](http://faculty.euc.ac.cy/scharalambous/csc132/books/c%2B%2B_book%201.pdf)
