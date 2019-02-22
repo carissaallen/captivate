@@ -26,7 +26,7 @@ If you have some of your own great finds, submit a PR!
 ## Programming Languages
 * [Code Practice & Mentorship](https://exercism.io/)
 
-## Python
+### Python
 * [Learn Python3 in Y Minutes](https://learnxinyminutes.com/docs/python3/)
 
 ### C++
