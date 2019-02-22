@@ -20,6 +20,9 @@ If you have some of your own great finds, submit a PR!
 * [Stanford Encyclopedia of Philosophy: The Lambda Calculus](https://plato.stanford.edu/entries/lambda-calculus/)
 * [Alligator Eggs (simple pictorial representation)](http://worrydream.com/AlligatorEggs/) 
 
+## System Administration
+* [UNIX and Linux System Administration Handbook](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554/ref=sr_1_1?ie=UTF8&qid=1550864769&sr=8-1&keywords=unix+and+linux+system+administration+handbook%2C+5th+edition)
+
 ## Programming Languages
 * [Code Practice & Mentorship](https://exercism.io/)
 
