@@ -23,6 +23,17 @@ If you have some of your own great finds, submit a PR!
 ## System Administration
 * [UNIX and Linux System Administration Handbook](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554/ref=sr_1_1?ie=UTF8&qid=1550864769&sr=8-1&keywords=unix+and+linux+system+administration+handbook%2C+5th+edition)
 
+## Web Development
+* [Giant List of Resources](https://www.appbrewery.co/p/web-development-course-resources/)
+* [Developer Documents](https://devdocs.io/)
+
+### Front-end
+* [CodePen](https://codepen.io/)
+* [HTML + CSS Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
+* [Unicode Character Table](https://unicode-table.com/en/)
+
+### Back-end
+
 ## Programming Languages
 * [Code Practice & Mentorship](https://exercism.io/)
 
