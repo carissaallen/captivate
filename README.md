@@ -80,4 +80,5 @@ If you have some of your own great finds, submit a PR!
 * [MIT Technology Review: The Download](https://www.technologyreview.com/the-download/)
 * [Dr. Dobbs](http://www.drdobbs.com/)
 * [basecs](https://medium.com/@vaidehijoshi)
+* [IEEE Digital Library](https://www.computer.org/csdl/magazine/co)
 * [WIRED](https://www.wired.com/)
