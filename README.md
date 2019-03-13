@@ -58,6 +58,7 @@ If you have some of your own great finds, submit a PR!
 * [CodeNewbie](https://www.codenewbie.org/) 
 * [Base.cs](https://www.codenewbie.org/basecs)
 * [Hanselminutes](https://www.hanselminutes.com/)
+* [Women at Work](https://hbr.org/2018/01/podcast-women-at-work)
 
 ## Websites
 * [GDB Tutorial](http://www.dirac.org/linux/gdb/)
