@@ -58,6 +58,7 @@ If you have some of your own great finds, submit a PR!
 * [CodeNewbie](https://www.codenewbie.org/) 
 * [Base.cs](https://www.codenewbie.org/basecs)
 * [Hanselminutes](https://www.hanselminutes.com/)
+* [Software Engineering Daily](https://softwareengineeringdaily.com/category/podcast/)
 * [Women at Work](https://hbr.org/2018/01/podcast-women-at-work)
 
 ## Websites
@@ -69,5 +70,6 @@ If you have some of your own great finds, submit a PR!
 ## Books
 * [Introduction to the Theory of Computation by Michael Sipser](https://www.pdfdrive.net/introduction-to-the-theory-of-computation-3rd-edition-e30937898.html)
 
-## Blog
+## Blog/Articles
+* [MIT Technology Review: The Download](https://www.technologyreview.com/the-download/)
 * [basecs](https://medium.com/@vaidehijoshi)
