@@ -56,7 +56,8 @@ If you have some of your own great finds, submit a PR!
 
 ## Podcasts
 * [CodeNewbie](https://www.codenewbie.org/) 
-* [Base.cs](https://www.codenewbie.org/basecs) 
+* [Base.cs](https://www.codenewbie.org/basecs)
+* [Hanselminutes](https://www.hanselminutes.com/)
 
 ## Websites
 * [GDB Tutorial](http://www.dirac.org/linux/gdb/)
