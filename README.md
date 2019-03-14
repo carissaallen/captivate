@@ -18,6 +18,9 @@ If you have some of your own great finds, submit a PR!
 * [Open Logic Project](http://openlogicproject.org) 
 * [forallx](http://people.ds.cam.ac.uk/tecb2/forallxcam.pdf)
 
+## Interview Prep
+* [Practice Mock Interviews & Coding Problems](https://www.pramp.com/#/)
+
 ## Principles of Programming Languages
 * [Types and Programming Languages by Benjamin Pierce](https://www.asc.ohio-state.edu/pollard.4/type/books/pierce-tpl.pdf)
 * [Stanford Encyclopedia of Philosophy: The Lambda Calculus](https://plato.stanford.edu/entries/lambda-calculus/)
