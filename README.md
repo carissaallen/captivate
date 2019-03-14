@@ -22,6 +22,7 @@ If you have some of your own great finds, submit a PR!
 * [Practice Mock Interviews & Coding Problems](https://www.pramp.com/#/)
 * [Interview Cake](https://www.interviewcake.com/)
 * [LeetCode](https://leetcode.com/)
+* [HackerRank](https://www.hackerrank.com/)
 
 ## Principles of Programming Languages
 * [Types and Programming Languages by Benjamin Pierce](https://www.asc.ohio-state.edu/pollard.4/type/books/pierce-tpl.pdf)
