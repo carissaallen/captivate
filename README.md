@@ -1,4 +1,4 @@
-# Learn (by topic) 
+# LEARN BY TOPIC
 
 This is a curated list of my favorite resources to get inspired, to program better, and to learn abstract computer science topics. These include books, articles, websites, podcasts, etc. that I've come across throughout my coding journey. Though I'm visually bookmarking some of my favorites here, by no means is this list intended to be comprehensive.
 
@@ -32,6 +32,9 @@ If you have some of your own great finds, submit a PR!
 ## System Administration
 * [UNIX and Linux System Administration Handbook](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554/ref=sr_1_1?ie=UTF8&qid=1550864769&sr=8-1&keywords=unix+and+linux+system+administration+handbook%2C+5th+edition)
 
+## Theory of Computation
+* [Introduction to the Theory of Computation by Michael Sipser](https://www.pdfdrive.net/introduction-to-the-theory-of-computation-3rd-edition-e30937898.html)
+
 ## Web Development
 * [Giant List of Resources](https://www.appbrewery.co/p/web-development-course-resources/)
 * [Developer Documents](https://devdocs.io/)
@@ -46,7 +49,7 @@ If you have some of your own great finds, submit a PR!
 
 ### Back-end
 
-## Programming Languages
+# PROGRAMMING LANGUAGES
 * [Code Practice & Mentorship](https://exercism.io/)
 
 ### Python
@@ -64,7 +67,7 @@ If you have some of your own great finds, submit a PR!
 * [Get Started with F# in Visual Studio Code](https://docs.microsoft.com/en-us/dotnet/fsharp/get-started/get-started-vscode?tabs=windows)
 * [The "Why use F#?" series](https://fsharpforfunandprofit.com/posts/why-use-fsharp-intro/)
 
-# Learn (by medium) 
+# LISTEN, READ, EXPLORE NEW THINGS
 
 ## Podcasts
 * [CodeNewbie](https://www.codenewbie.org/) 
@@ -78,9 +81,6 @@ If you have some of your own great finds, submit a PR!
 * [Unix/Linux Command Reference](https://files.fosswire.com/2007/08/fwunixref.pdf)
 * [Getting to Grips with LaTeX](http://www.andy-roberts.net/writing/latex/absolute_beginners)
 * [Vim Adventures](https://vim-adventures.com)
-
-## Books
-* [Introduction to the Theory of Computation by Michael Sipser](https://www.pdfdrive.net/introduction-to-the-theory-of-computation-3rd-edition-e30937898.html)
 
 ## Blogs/Magazines/Articles
 * [MIT Technology Review: The Download](https://www.technologyreview.com/the-download/)
