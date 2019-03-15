@@ -84,6 +84,7 @@ If you have some of your own great finds, submit a PR!
 
 ## Blogs/Magazines/Articles
 * [MIT Technology Review: The Download](https://www.technologyreview.com/the-download/)
+* [Code Magazine](https://www.codemag.com/)
 * [Dr. Dobbs](http://www.drdobbs.com/)
 * [SD Times](https://sdtimes.com/)
 * [basecs](https://medium.com/@vaidehijoshi)
