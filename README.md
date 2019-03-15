@@ -47,8 +47,6 @@ If you have some of your own great finds, submit a PR!
 #### Design
 * [App Design](https://www.invisionapp.com/)
 
-### Back-end
-
 # PROGRAMMING LANGUAGES
 * [Code Practice & Mentorship](https://exercism.io/)
 
