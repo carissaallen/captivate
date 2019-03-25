@@ -56,18 +56,18 @@ If you have some of your own great finds, submit a PR!
 # PROGRAMMING LANGUAGES
 * [Code Practice & Mentorship](https://exercism.io/)
 
-### Python
+## Python
 * [Learn Python3 in Y Minutes](https://learnxinyminutes.com/docs/python3/)
 
-### C++
+## C++
 * [C++ Primer Plus by Stephen Prata](http://faculty.euc.ac.cy/scharalambous/csc132/books/c%2B%2B_book%201.pdf)
 
-### C#
+## C#
 * [Get Started with C# and Visual Studio Code](https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code) 
 * [Unit testing C# in .NET Core](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test)
 * [REST client](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/console-webapiclient)
 
-### F# 
+## F# 
 * [Get Started with F# in Visual Studio Code](https://docs.microsoft.com/en-us/dotnet/fsharp/get-started/get-started-vscode?tabs=windows)
 * [The "Why use F#?" series](https://fsharpforfunandprofit.com/posts/why-use-fsharp-intro/)
 
