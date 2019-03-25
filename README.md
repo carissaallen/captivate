@@ -94,3 +94,7 @@ If you have some of your own great finds, submit a PR!
 * [basecs](https://medium.com/@vaidehijoshi)
 * [IEEE Digital Library](https://www.computer.org/csdl/magazine/co)
 * [WIRED](https://www.wired.com/)
+
+# TEXT EDITORS
+## Sublime Text
+* [Getting Started with Sublime Text](https://scotch.io/courses/getting-started-with-sublime-text/getting-started)
