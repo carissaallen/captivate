@@ -46,6 +46,7 @@ If you have some of your own great finds, submit a PR!
 
 #### HTML
 * [HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+* [Getting to Know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html/)
 
 #### Design
 * [App Design](https://www.invisionapp.com/)
