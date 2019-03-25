@@ -98,3 +98,4 @@ If you have some of your own great finds, submit a PR!
 # TEXT EDITORS
 ## Sublime Text
 * [Getting Started with Sublime Text](https://scotch.io/courses/getting-started-with-sublime-text/getting-started)
+* [Visual Guide to Sublime Text](https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts)
