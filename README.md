@@ -53,6 +53,8 @@ If you have some of your own great finds, submit a PR!
 #### CSS
 * [Getting to Know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
 * [Choosing Good Class Names](https://www.w3.org/QA/Tips/goodclassnames)
+
+#### Chrome Developer Tools
 * [CSS Diner](http://flukeout.github.io/)
 
 #### Design
