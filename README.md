@@ -55,6 +55,7 @@ If you have some of your own great finds, submit a PR!
 * [Choosing Good Class Names](https://www.w3.org/QA/Tips/goodclassnames)
 * [CSS Diner](http://flukeout.github.io/)
 * [CSS Selector Specificity](https://medium.com/@dte/understanding-css-selector-specificity-a02238a02a59)
+* [CSS Tricks](https://css-tricks.com/)
 
 #### Chrome Developer Tools
 * [15 Must-Know Chrome DevTools Tips and Tricks](https://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks)
