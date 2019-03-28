@@ -31,6 +31,7 @@ If you have some of your own great finds, submit a PR!
 
 ## System Administration
 * [UNIX and Linux System Administration Handbook](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554/ref=sr_1_1?ie=UTF8&qid=1550864769&sr=8-1&keywords=unix+and+linux+system+administration+handbook%2C+5th+edition)
+* [Learning the Shell](http://linuxcommand.org/lc3_learning_the_shell.php)
 
 ## Theory of Computation
 * [Introduction to the Theory of Computation by Michael Sipser](https://www.pdfdrive.net/introduction-to-the-theory-of-computation-3rd-edition-e30937898.html)
