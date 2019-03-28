@@ -50,6 +50,9 @@ If you have some of your own great finds, submit a PR!
 * [Tags, Elements, Attributes](https://www.htmldog.com/guides/html/beginner/tags/)
 * [Dive Into HTML5](https://diveintohtml5.info/)
 
+#### CSS
+* [Getting to Know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
+
 #### Design
 * [App Design](https://www.invisionapp.com/)
 
