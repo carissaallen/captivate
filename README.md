@@ -57,6 +57,7 @@ If you have some of your own great finds, submit a PR!
 * [CSS Selector Specificity](https://medium.com/@dte/understanding-css-selector-specificity-a02238a02a59)
 * [CSS Tricks](https://css-tricks.com/)
 * [MeyerWeb Reset to Reduce Browser Inconsistencies](https://meyerweb.com/eric/tools/css/reset/reset.css)
+* [Normalize.css](https://necolas.github.io/normalize.css/)
 
 #### Chrome Developer Tools
 * [15 Must-Know Chrome DevTools Tips and Tricks](https://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks)
