@@ -62,6 +62,7 @@ If you have some of your own great finds, submit a PR!
 
 #### Design
 * [App Design](https://www.invisionapp.com/)
+* [Google Fonts](https://fonts.google.com/)
 
 # PROGRAMMING LANGUAGES
 * [Code Practice & Mentorship](https://exercism.io/)
