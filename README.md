@@ -66,6 +66,7 @@ If you have some of your own great finds, submit a PR!
 #### JavaScript
 * [Introduction to JavaScript](http://eloquentjavascript.net/00_intro.html)
 * [JavaScript Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+* [Working With Variables](https://www.javascript.com/)
 
 #### Chrome Developer Tools
 * [15 Must-Know Chrome DevTools Tips and Tricks](https://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks)
