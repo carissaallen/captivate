@@ -63,6 +63,9 @@ If you have some of your own great finds, submit a PR!
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [Learn CSS Layout](http://learnlayout.com/)
 
+#### JavaScript
+* [Introduction to JavaScript](http://eloquentjavascript.net/00_intro.html)
+
 #### Chrome Developer Tools
 * [15 Must-Know Chrome DevTools Tips and Tricks](https://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks)
 * [Chrome DevTools in an Evening](https://www.youtube.com/watch?v=uRw4-yyvMAQ)
