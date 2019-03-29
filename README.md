@@ -42,8 +42,9 @@ If you have some of your own great finds, submit a PR!
 
 ### Front-end
 * [CodePen](https://codepen.io/)
-* [HTML + CSS Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 * [Unicode Character Table](https://unicode-table.com/en/)
+* [Just Starting Out With CSS & HTML](https://css-tricks.com/guides/beginner/)
+* [HTML + CSS Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 
 #### HTML
 * [HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
