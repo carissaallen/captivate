@@ -36,6 +36,9 @@ If you have some of your own great finds, submit a PR!
 ## Theory of Computation
 * [Introduction to the Theory of Computation by Michael Sipser](https://www.pdfdrive.net/introduction-to-the-theory-of-computation-3rd-edition-e30937898.html)
 
+## Unit Testing, Integration Testing, Test-Driven Development
+* [The Art of Unit Testing by Roy Osherove](https://piazza-resources.s3.amazonaws.com/j11t8bsxngk3r3/j2lw6zcyt5t6lu/Osherove_2014_Art_of_Unit_Testing_2nd_ed.pdf)
+
 ## Web Development
 * [Giant List of Resources](https://www.appbrewery.co/p/web-development-course-resources/)
 * [Developer Documents](https://devdocs.io/)
