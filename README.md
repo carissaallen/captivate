@@ -38,6 +38,7 @@ If you have some of your own great finds, submit a PR!
 
 ## Unit Testing, Integration Testing, Test-Driven Development
 * [The Art of Unit Testing by Roy Osherove](https://piazza-resources.s3.amazonaws.com/j11t8bsxngk3r3/j2lw6zcyt5t6lu/Osherove_2014_Art_of_Unit_Testing_2nd_ed.pdf)
+* [xUnit Test Patterns by Gerard Meszaros](https://github.com/oolee/software-development-ebooks/blob/master/%5BxUnit%20Test%20Patterns%20Refactoring%20Test%20Code%20(Addison-Wesley%20Signature%20Series%20(Fowler))%20Kindle%20Edition%20by%20Gerard%20Meszaros%20-%202007%5D.pdf)
 
 ## Web Development
 * [Giant List of Resources](https://www.appbrewery.co/p/web-development-course-resources/)
