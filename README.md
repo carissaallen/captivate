@@ -81,6 +81,7 @@ If you have some of your own great finds, submit a PR!
 * [App Design](https://www.invisionapp.com/)
 * [Google Fonts](https://fonts.google.com/)
 * [Color Palettes](https://colorhunt.co/)
+* [Favicon](https://favicon.io/)
 
 # PROGRAMMING LANGUAGES
 * [Code Practice & Mentorship](https://exercism.io/)
