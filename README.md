@@ -78,6 +78,7 @@ If you have some of your own great finds, submit a PR!
 * [12 Tricks to Develop Quicker](https://www.youtube.com/watch?v=uRw4-yyvMAQ)
 
 #### Design
+* [Responsive Design Playground](https://www.codeply.com/)
 * [App Design](https://www.invisionapp.com/)
 * [Color Palettes](https://colorhunt.co/)
 * [Favicon](https://favicon.io/)
