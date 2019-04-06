@@ -45,6 +45,7 @@ If you have some of your own great finds, submit a PR!
 * [Developer Documents](https://devdocs.io/)
 
 ### Front-end
+* [Frontend Mentor](https://www.frontendmentor.io)
 * [CodePen](https://codepen.io/)
 * [Unicode Character Table](https://unicode-table.com/en/)
 * [Just Starting Out With CSS & HTML](https://css-tricks.com/guides/beginner/)
