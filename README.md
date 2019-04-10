@@ -9,10 +9,10 @@ If you have some of your own great finds, submit a PR!
 
 ## Algorithms & Complexity
 * [Introduction to the Design and Analysis of Algorithms by Anany Levitin](http://www.vgloop.com/_files/1394454921-126688.pdf)
-* [Sorting Algorithms](https://www.toptal.com/developers/sorting-algorithms)
 * [Big-O Cheat Sheet](http://bigocheatsheet.com)
 * [Data Structures & Algorithms Overview](http://www.dsalgo.com/2013/02/index.php.html?m=1)
-* [Visualize Data Structures & Algorithms](https://visualgo.net/en) 
+* [Visualize Data Structures & Algorithms](https://visualgo.net/en)
+* [Sorting Algorithms](https://www.toptal.com/developers/sorting-algorithms)
 
 ## Discrete Structures 
 * [Open Logic Project](http://openlogicproject.org) 
