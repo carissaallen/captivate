@@ -124,9 +124,9 @@ If you have some of your own great finds, submit a PR!
 * [Code Magazine](https://www.codemag.com/)
 * [Dr. Dobbs](http://www.drdobbs.com/)
 * [SD Times](https://sdtimes.com/)
-* [basecs](https://medium.com/@vaidehijoshi)
 * [IEEE Digital Library](https://www.computer.org/csdl/magazine/co)
 * [WIRED](https://www.wired.com/)
+* [basecs](https://medium.com/@vaidehijoshi)
 
 # TEXT EDITORS
 ## Sublime Text
