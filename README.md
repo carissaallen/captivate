@@ -73,6 +73,7 @@ If you have some of your own great finds, submit a PR!
 * [JavaScript Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 * [Working With Variables](https://www.javascript.com/)
 * [Object Explorer](https://sdras.github.io/object-explorer/)
+* [Array Explorer](https://sdras.github.io/array-explorer/)
 
 #### Chrome Developer Tools
 * [15 Must-Know Chrome DevTools Tips and Tricks](https://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks)
