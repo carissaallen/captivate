@@ -83,6 +83,7 @@ If you have some of your own great finds, submit a PR!
 
 #### Design
 * [Responsive Design Playground](https://www.codeply.com/)
+* [Mobile Friendly?](https://search.google.com/test/mobile-friendly)
 * [App Design](https://www.invisionapp.com/)
 * [Color Palettes](https://colorhunt.co/)
 * [Favicon](https://favicon.io/)
