@@ -70,6 +70,7 @@ If you have some of your own great finds, submit a PR!
 
 #### JavaScript
 * [Introduction to JavaScript](http://eloquentjavascript.net/00_intro.html)
+* [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [JavaScript Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 * [Working With Variables](https://www.javascript.com/)
 * [Object Explorer](https://sdras.github.io/object-explorer/)
