@@ -77,6 +77,12 @@ If you have some of your own great finds, submit a PR!
 * [Array Explorer](https://sdras.github.io/array-explorer/)
 * [Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 
+#### Bootstrap
+* [Bootstrap 4 CDN](https://getbootstrap.com/)
+
+#### jQuery
+* [jQuery Google CDN](https://developers.google.com/speed/libraries/#jquery)
+
 #### Chrome Developer Tools
 * [15 Must-Know Chrome DevTools Tips and Tricks](https://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks)
 * [Chrome DevTools in an Evening](https://www.youtube.com/watch?v=uRw4-yyvMAQ)
